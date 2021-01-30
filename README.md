@@ -15,3 +15,7 @@
     * https://www.python.org/ftp/python/3.9.1/python-3.9.1-embed-amd64.zip
 
 * zipファイルをpython-3.9.1フォルダに展開し、元のzipファイルは削除
+
+
+## 参考サイト
+* [Python Embeddableの使い方](https://engineer-milione.com/programming/python-embeddable.html#1)
