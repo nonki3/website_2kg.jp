@@ -30,10 +30,13 @@
     * pipインストーラファイルのダウンロード
       * https://bootstrap.pypa.io/ から```get-pip.py```をダウンロード
       * ```get-pip.py```を```python-3.9.1```フォルダに配置
+<<<<<<< HEAD
   * pipインストール
     * ```cmd4python.bat```を実行しコマンドプロンプトを開く
     * カレントディレクトリが```python-3.9.1```となっていることを確認の上で下記コマンドを実行
       * ```python.exe get-pip.py```
+=======
+>>>>>>> cf4d70ead534266f5196de7dc2b03ef6ead0cfdf
 
 ## 参考サイト
 * [Windowsでpythonを使う/配布する時に便利！Python embeddable package使い方 - ひつじ工房](https://hituji-ws.com/code/python/python-emb-usage/)
